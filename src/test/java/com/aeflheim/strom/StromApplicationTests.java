@@ -8,6 +8,7 @@ class StromApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
